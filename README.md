@@ -15,7 +15,7 @@ This application serves as a professional developer portfolio presenting my back
 - **4-State Contact Form:** Form management supporting controlled inputs, validation logic, and handling for `idle`, `submitting`, `success`, and `error` feedback states.
 - **Responsive Design:** Fluid Tailwind CSS breakpoints optimized for 375px (mobile), 768px (tablet), and 1280px (desktop) viewports.
 
-## 💻 Local Setup Instructions
+##  Local Setup Instructions
 To run this project locally on your machine, follow these steps:
 
 1. Clone the repository:
